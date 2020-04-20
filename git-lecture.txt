@@ -1,0 +1,20 @@
+git clone
+git add .
+git commit -m "Added hello.html"
+git push
+git pull
+git log
+git reflog // to see the reflact of changes
+git reset --hard // get back the previus commit
+git branch feature // added new branch feature
+git branch // to check how many branches
+git checkout feature // to switch featur branch
+git push --set-upstream origin feature // if push feature branch to github
+git checkout master // to switch featur branch
+git marge feature // to marge feature to master
+git remote // repo somewhere else or others account
+
+git pull is github specific feature to contribute the public project
+
+
+
